@@ -1,20 +1,70 @@
-h1{
-    background-color: #387D22;
-    color: cornsilk;
-    padding: 2%;
+body{
+    font-family: helvetica;
+    color: rgb(61, 61, 61);
+    font-size: 14px;
 }
-#bang1{
+/* form 1 */
+.bang1{
+    width: 600px;
+    height: 950px;
+    box-shadow: 3px 3px 10px #F2F2F2;
+    border: 1px solid #FCFCFC;
     padding: 20px;
-}
-#bang2{
-    padding: 2%;
-}
-#nutbam{
-    margin: 10px;
-    padding: 5px;
-    color: wheat;
-    background: tomato;
+    border-radius: 5px;
 }
 table{
-    border-collapse: collapse;
+    padding: 15px;
 }
+.ke1{
+    padding-bottom: 20px;
+    font-size: 40px;
+}
+.kebang{
+    border-bottom: 2px solid #E5E5E5;
+    width: 100%;
+}
+td{
+    width: 30%;
+}
+input, select{
+    margin-top: 8px;
+    background: #F3F3F3;
+    border: 1px solid #E5E5E5;
+    color: rgb(86, 86, 86);
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+input{
+    width: 70%;
+}
+select{
+    width: 80%;
+
+}
+#CANCEL{
+    color: grey;
+}
+.bang2{
+    width: 900px;
+}
+.thanhngnag{
+    width: 300px;
+}
+.pass{
+    color: #B3B3B3;
+}
+.button1{
+    background: #4992C7;
+    color: white;
+    text-transform: capitalize;
+}
+.details1{
+    color: brown;
+    margin-left: 30px;
+}
+
+/* het form 1 */
+
+/* form 2 */
