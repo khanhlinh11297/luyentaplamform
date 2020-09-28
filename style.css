@@ -12,6 +12,10 @@ body{
     padding: 20px;
     border-radius: 5px;
 }
+
+.details1{
+    margin-left: 30px;
+}
 table{
     padding: 15px;
 }
@@ -43,8 +47,9 @@ select{
     width: 80%;
 
 }
-#CANCEL{
+#CANCEL1{
     color: grey;
+    
 }
 .bang2{
     width: 900px;
@@ -59,10 +64,6 @@ select{
     background: #4992C7;
     color: white;
     text-transform: capitalize;
-}
-.details1{
-    color: brown;
-    margin-left: 30px;
 }
 
 /* het form 1 */
